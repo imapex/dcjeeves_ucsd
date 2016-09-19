@@ -8,6 +8,7 @@ The code involved in this module is a certain set of workflows capable of being 
 A typical DC Jeeves supported command would something like the following:
 `dcjeeves <COMMAND> on <ENVIRONMENT> at <CLOUD> where <KEY> equals <VALUE1>
 `
+Depending on what \<COMMAND> \<ENVIRONMENT> \<CLOUD> and \<KEY>\<VALUE is passed in, dcjeeves should be able to automatically understand how to convert that to UCSD following the the rules below.
 
 **Configuring dcjeeves_app to be able to talk to UCSD**
 
