@@ -1,5 +1,5 @@
 # DCJeeves UCSD 
-
+This is the plugable backend module that allows dcjeeves\_app to communicate with UCSD.
 
 ## Backend Module
 The code involved in this module is a certain set of workflows capable of being called by DCJeeves.  DCJeeves makes calls to UCSD in an automated fashion based on the command being issued.  UCSD workflows are named in such a way that DC Jeeves doesn't have to know about them up front.
